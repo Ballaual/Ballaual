@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h2>Hello there! I am glad to see you on my profile.</h2>
+  <h2>Hello there! Welcome on my profile.</h2>
   <p><img src="https://komarev.com/ghpvc/?username=ballaual&label=Profile%20views&color=0e75b6&style=flat" alt="hunteroi" /></p>
 </div>
 
