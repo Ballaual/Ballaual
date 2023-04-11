@@ -5,7 +5,7 @@
 
 <h3>About myself 🧍‍♂</h3>
 
-I am a young developer living in <img src="//upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="DE" width="16" height="16" /> Germany.</p>
+I am a young developer living in <img src="//upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="16" height="16" /> Germany.</p>
 I only develop in my spare time while i am working as a salesman in the office.
 
 <h3>My interests 📝</h3>
@@ -21,7 +21,8 @@ I am a member of the following organizations:
 - [Infernale Stube](https://github.com/Infernale-Stube)</p>
 That's the organization of me and my mate @Justdom22 creating mobile app
 
-<h3>→ Projects 📑</h3>
+<h3>Projects 📑</h3>
+
 I am currently working on the following projects:
 
 - [DiCoBo](https://github.com/ballaual/DiCoBo), a multi guild discordbot using discordjs v14 and distube for playing music.
