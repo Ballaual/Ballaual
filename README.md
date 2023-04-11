@@ -6,7 +6,7 @@
 <h3>About myself 🧍‍♂</h3>
 
 I am a young developer living in <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="DE" width="16" height="16" /> Germany.</p>
-I only develop in my spare time while i am working as a salesman in the office.
+I am no fulltime developer. I only develop in my spare time while i am working as a salesman in the office.
 
 <h3>My interests 📝</h3>
 
