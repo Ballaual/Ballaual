@@ -1,18 +1,32 @@
-### Hi there 👋
+<div align="center"> 
+  <h2>Hello there! I am glad to see you on my profile.</h2>
+  <p><img src="https://komarev.com/ghpvc/?username=ballaual&label=Profile%20views&color=0e75b6&style=flat" alt="hunteroi" /></p>
+</div>
+
+<h3>About myself 🧍‍♂</h3>
+
+I am a young developer living in <img src="//upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="DE" width="16" height="16" /> Germany.</p>
+I only develop in my spare time while i am working as a salesman in the office.
+
+<h3>My interests 📝</h3>
+
+- Gaming (League of Legends, Valorant / CSGO, Escape from Tarkov, The Cycle Frontier)
+- Coding (Web and mobile development) in Javascript
+- Servers (I own a Debian Rootserver with where i host several stuff like Gameservers, Websites and Bots)
+
+<h3>Organizations 👨‍👧‍👦</h3>
+
+I am a member of the following organizations:
+
+- [Infernale Stube](https://github.com/Infernale-Stube)</p>
+That's the organization of me and my mate @Justdom22 creating mobile app
+
+<h3>→ Projects 📑</h3>
+I am currently working on the following projects:
+
+- [DiCoBo](https://github.com/ballaual/DiCoBo), a multi guild discordbot using discordjs v14 and distube for playing music.
+- [OTAlink](https://github.com/Infernale-Stube/OTAlink), a mobile app for docs and helper to fast look up operation procedures
+
+<h3>Metrics 📊</h3>
 
 ![Metrics](/github-metrics.svg)
-
-<!--
-**ballaual/ballaual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
