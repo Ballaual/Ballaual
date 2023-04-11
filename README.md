@@ -3,7 +3,7 @@
   <p><img src="https://komarev.com/ghpvc/?username=ballaual&label=Profile%20views&color=0e75b6&style=flat" alt="hunteroi" /></p>
 </div>
 
-<h3>About myself 🧍‍♂</h3>
+<h3>About me 🧍‍♂</h3>
 
 I am a young developer living in <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="DE" width="16" height="16" /> Germany.</p>
 I am no fulltime developer. I only develop in my spare time while i am working as a salesman in the office.
