@@ -26,7 +26,7 @@ That's the organization of me and my mate @Justdom22 creating mobile app
 I am currently working on the following projects:
 
 - [DiCoBo](https://github.com/ballaual/DiCoBo), a multi guild discordbot using discordjs v14 and distube for playing music.
-- [OTAlink](https://github.com/Infernale-Stube/OTAlink), a mobile app for docs and helper to fast look up operation procedures
+- [OTAlink](https://github.com/Infernale-Stube/OTAlink), a mobile app for doctors and helpers to fast look up operation procedures
 
 <h3>Metrics 📊</h3>
 
