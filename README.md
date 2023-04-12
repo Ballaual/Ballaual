@@ -16,14 +16,10 @@ I am no fulltime developer. I only develop in my spare time while i am working a
 
 <h3>Organizations 👨‍👧‍👦</h3>
 
-I am a member of the following organizations:
-
 - [Infernale Stube](https://github.com/Infernale-Stube)</p>
-That's the organization of me and my mate @Justdom22 creating mobile app
+That's the organization of me and my mate @Justdom22 creating mobile apps
 
 <h3>Projects 📑</h3>
-
-I am currently working on the following projects:
 
 - [DiCoBo](https://github.com/ballaual/DiCoBo), a multi guild discordbot using discordjs v14 and distube for playing music.
 - [OTAlink](https://github.com/Infernale-Stube/OTAlink), a mobile app for doctors and helpers to fast look up operation procedures
