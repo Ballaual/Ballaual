@@ -16,7 +16,7 @@ I am no fulltime developer. I only develop in my spare time while i am working a
 
 <h3>Organizations 👨‍👧‍👦</h3>
 
-- [Infernale Stube](https://github.com/Infernale-Stube) - Here i am developing mobile app with my mate @Justdom22.
+- [Infernale Stube](https://github.com/Infernale-Stube), here i am developing mobile app with my mate @Justdom22.
 
 <h3>Projects 📑</h3>
 
